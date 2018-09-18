@@ -174,7 +174,7 @@ plot_features <- function(explanation, ncol = 2) {
 }
 
 
-#Recreating plot features
+#Recreating plot features that was built in actual LIME library
 explanation %>% as.tibble()
 
 case_1 <- explanation %>%
@@ -239,5 +239,5 @@ explanation %>%
 
 
 
-# 4.2 Recreating Plot Explanations ----
+
 
