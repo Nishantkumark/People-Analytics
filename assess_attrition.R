@@ -1,7 +1,5 @@
-# HR 201: PREDICTING EMPLOYEE ATTRITION WITH H2O AND LIME ----
-# CHAPTER 1: BUSINESS UNDERSTANDING ----
-# These are a collection of functions built during the first chapter
-# of analyzing the business. You can source() this file for later use.
+#PREDICTING EMPLOYEE ATTRITION WITH H2O AND LIME ----
+# SCRIPTS FOR BUSINESS UNDERSTANDING ----
 
 
 library(tidyverse)
