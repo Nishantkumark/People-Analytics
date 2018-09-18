@@ -1,12 +1,12 @@
-# HR 201: PREDICTING EMPLOYEE ATTRITION WITH H2O AND LIME ----
-# CHAPTER 2: DATA UNDERSTANDING AND PREPARATION ----
+#  PREDICTING EMPLOYEE ATTRITION WITH H2O AND LIME ----
+# Scripts 2: DATA UNDERSTANDING AND PREPARATION ----
 # plot_ggpairs ----
 
 library(tidyverse)
 library(tidyquant)
 library(GGally)
 
-# ggpairs: A lot of repetitive typing can be reduced 
+# ggpairs:  
 plot_ggpairs <- function(data, color = NULL, density_alpha = 0.5) {
     
     color_expr <- enquo(color)
