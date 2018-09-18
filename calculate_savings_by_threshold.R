@@ -1,5 +1,5 @@
-# HR 201: PREDICTING EMPLOYEE ATTRITION WITH H2O AND LIME ----
-# CHAPTER 8: EVALUATION ----
+#  PREDICTING EMPLOYEE ATTRITION WITH H2O AND LIME ----
+# Scripts EVALUATION ----
 
 calculate_savings_by_threshold <- function(data, h2o_model, threshold = 0,
                                            tnr = 0, fpr = 1, fnr = 0, tpr = 1) {
