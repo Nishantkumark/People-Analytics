@@ -1,5 +1,5 @@
 #  PREDICTING EMPLOYEE ATTRITION WITH H2O AND LIME ----
-# Script for  H2O MODELING ----
+# Scripts for  H2O MODELING ----
 
 
 library(h2o)
